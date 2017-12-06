@@ -1,12 +1,12 @@
 {
   "name": "Yu-Hi Kendo Calendar",
-  "short_name": "Yuhi Cal",
+  "short_name": "Yuhi Calendar",
   "theme_color": "#3f51b5",
   "background_color": "#3f51b5",
   "display": "standalone",
   "orientation": "portrait",
-  "Scope": "/jigeiko/",
-  "start_url": "/jigeiko/",
+  "Scope": "./",
+  "start_url": "./",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
