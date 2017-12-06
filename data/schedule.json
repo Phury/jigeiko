@@ -1,0 +1,52 @@
+[
+	{
+  	"club": "Yu-Hi",
+    "location": {
+    	"name": "ADEPS G2",
+        "address": "Centre Sportif de la Forêt de Soignes - 2053 chaussée de Wavre - 1160 Bruxelles"
+    },
+    "time": { "from": "09:00", "to": "11:00", "dayOfWeek": "Saturday" }
+  },
+  {
+  	"club": "Yu-Hi",
+    "location": {
+    	"name": "ADEPS G3",
+        "address": "Centre Sportif de la Forêt de Soignes - 2053 chaussée de Wavre - 1160 Bruxelles"
+    },
+    "time": { "from": "18:30", "to": "20:00", "dayOfWeek": "Monday" }
+  },
+  {
+  	"club": "Yu-Hi",
+    "location": {
+    	"name": "ARA",
+        "address": "Athénée Royale d'Auderghem -Avenue du Parc de Woluwe - 1170 Bruxelles"
+    },
+    "time": { "from": "18:30", "to": "20:00", "dayOfWeek": "Thursday" }
+  },
+  {
+  	"club": "Yu-Hi - Team",
+    "detail": "membres de la team Yu-Hi",
+    "location": {
+    	"name": "ADEPS G3",
+        "address": "Centre Sportif de la Forêt de Soignes - 2053 chaussée de Wavre - 1160 Bruxelles"
+    },
+    "time": { "from": "12:00", "to": "13:00", "dayOfWeek": "Saturday", "weekOfMonth": 4 }
+  },
+  {
+  	"club": "Yu-Hi - 4iem Dan",
+    "detail": "keiko 4iem Dan et plus",
+    "location": {
+    	"name": "ADEPS G3",
+        "address": "Centre Sportif de la Forêt de Soignes - 2053 chaussée de Wavre - 1160 Bruxelles"
+    },
+    "time": { "from": "12:00", "to": "13:00", "dayOfWeek": "Saturday", "weekOfMonth": 3 }
+  },
+  {
+  	"club": "Keiko BKR",
+    "location": {
+    	"name": "ADEPS G3",
+        "address": "Centre Sportif de la Forêt de Soignes - 2053 chaussée de Wavre - 1160 Bruxelles"
+    },
+    "time": { "from": "12:00", "to": "13:00", "dayOfWeek": "Saturday", "weekOfMonth": 2 }
+  }
+]

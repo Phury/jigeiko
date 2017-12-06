@@ -1,0 +1,79 @@
+/*
+ * Typography
+ */
+@import url('https://fonts.googleapis.com/css?family=Abel|Unica+One');
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Unica One', cursive;
+}
+h3, h4, h5 {
+  font-weight: bold;
+}
+body, p, a {
+  font-family: 'Abel', sans-serif;
+}
+.date {
+  font-family: 'Unica One', cursive;
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.4em;
+  background-color: #fff;
+}
+
+.timeline-item {
+  border-bottom: 1px solid #ddd;
+  position: relative;
+  min-height: 65px;
+  padding: 1em;
+}
+.timeline-header {
+  background-image: url('//www.yuhikendo.be/images/YHsensei.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  padding-left: 3rem;
+  font-size: 2em;
+  height: 150px;
+}
+
+.timeline-header h3 {
+  padding-top: 3rem;
+  color: #fff;
+}
+
+.timeline-icon {
+  position: absolute;
+}
+.timeline-content {
+  margin-left: 3rem;
+}
+
+.timeline-icon, .timeline-content {
+  display: inline-block;
+}
+.timeline-icon .date .day {
+  font-size: 1.5em;
+  text-align: right;
+}
+.card {
+  color: #fff;
+  border-radius: 5px;
+  padding: .5em;
+  margin-bottom: 1em;
+  
+  border: 0;
+  box-shadow: none;
+  /*
+    -webkit-box-shadow: 1px 1px 1px 0px #96afb7;
+       -moz-box-shadow: 1px 1px 1px 0px #96afb7;
+            box-shadow: 1px 1px 1px 0px #96afb7;
+  */
+}
+.timeline-action {
+  text-align: center;
+  padding: .5em;
+}
