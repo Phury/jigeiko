@@ -7,7 +7,7 @@ const MONTHS = ["January", "February", "March", "April", "May", "June", "July", 
 const ScheduleService = {
   
   getSchedule: function() {
-    const uri = '/data/schedule.json';
+    const uri = 'data/schedule.json';
     return fetch(uri)
       .then((response) => {
         if (response.ok) {
