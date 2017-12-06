@@ -29,7 +29,7 @@ body {
   padding: 1em;
 }
 .timeline-header {
-  background-image: url('//www.yuhikendo.be/images/YHsensei.jpg');
+  background-image: url('../images/bg/do.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
